@@ -49,7 +49,7 @@
 	history_interval = 2
 	terminal_interval = 10
 
-	star_history_name = "history_2c_relaxsurfheat_15ME_0.1_9.0"
+	star_history_name = "history_2b_relaxsurfheat_15ME_0.1_9.0"
 
 / ! end of controls namelist
 
